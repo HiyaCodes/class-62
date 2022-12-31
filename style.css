@@ -1,0 +1,22 @@
+.line{
+height: 6px;
+width: 70px;
+margin:8px auto;
+background-color: aqua;
+}
+body{
+text-align: center;
+}
+#apps{
+    background-color: blueviolet;
+}
+#my_carousel{
+    background-color: aquamarine;
+}
+#chatbot{
+    background-color: chartreuse;
+}
+#my_carousel img{
+    height: 250px; 
+    margin-top: 35px;
+}
